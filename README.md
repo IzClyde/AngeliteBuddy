@@ -20,7 +20,7 @@
 
 ## Project Overview
 
-Angelite Buddy is a dating app that provides smart user matching using a combination of:
+Angelite Buddy is a matching app that provides smart user matching using a combination of:
 
 -   **Collaborative Filtering Algorithm**: Recommends potential matches based on users' common interests and previous interactions.
 -   **Elo Rating System**: An adjustable ranking system that updates user ratings after each interaction to reflect match quality.
