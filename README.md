@@ -1,6 +1,6 @@
 # Angelite Buddy
 
-**Angelite Buddy** is an online dating app built using Nuxt.js 3. It incorporates collaborative filtering and Elo rating algorithms to recommend potential matches based on users' interests and interactions. The app is packaged with Capacitor, making it easily deployable as a cross-platform mobile app.
+**Angelite Buddy** is an online matching app built using Nuxt.js 3. It incorporates collaborative filtering and Elo rating algorithms to recommend potential matches based on users' interests and interactions. The app is packaged with Capacitor, making it easily deployable as a cross-platform mobile app.
 
 ## Table of Contents
 
